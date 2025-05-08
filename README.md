@@ -1,1 +1,1 @@
-# IBM-Data-Science-Rep
+# Repository for assignments of IBM Data Science course
